@@ -50,8 +50,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/avery-quan-32768b153/
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -69,4 +67,4 @@ social:
 
 
 
-
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
