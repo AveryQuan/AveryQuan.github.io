@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Insight Facade
+summary: Database for UBC buildings and courses
 tags:
-  - ML
-date: 2022-01-01
+  - typescript
+date: 2021-12-01
 external_link: http://github.com
 ---
