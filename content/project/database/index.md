@@ -1,6 +1,6 @@
 ---
 title: Insight Facade
-summary: Database for UBC buildings and courses
+summary: A database for UBC buildings and courses
 tags:
   - typescript
 date: 2021-12-01
