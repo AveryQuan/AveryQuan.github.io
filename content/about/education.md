@@ -30,9 +30,7 @@ experience:
     date_start: '2019-01-01'
     date_end: '2024-05-28'
     description: |2-
-        # * Dissertation on Y
-        # * Basketball team
-        # * DJ club
+
 
   - title: Diploma in General Science
     company: Langara 
