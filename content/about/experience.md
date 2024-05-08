@@ -25,7 +25,7 @@ experience:
   - title: Software Test Engineer Co-op	
     company: Visier
     company_url: ''
-    company_logo: org-v
+    company_logo: org-x
     location: Vancouver
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Software Developer
     company: IOTO International
     company_url: ''
-    company_logo: org-i
+    company_logo: org-x
     location: Vancouver
     date_start: '2021-01-01'
     date_end: '2021-08-31'
