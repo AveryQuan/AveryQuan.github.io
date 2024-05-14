@@ -1,6 +1,6 @@
 ---
-title: Determining Parkinson's Disease Progression 
-summary: AI backed research on Parkinson's and its underlying proteins
+title: Parkinson's Disease Progression 
+summary: AI research on Parkinson's and its correlated peptides
 tags:
   - ML
 date: 2022-01-01
